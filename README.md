@@ -14,7 +14,7 @@ Excluir Despesa: Remova uma despesa específica da lista.
 
 Persistência de Dados: Todas as despesas ficam salvas no banco PostgreSQL.
 
-🛠️ Tecnologias Utilizadas
+ Tecnologias Utilizadas
 Front-end
 
 HTML5: Estrutura da aplicação.
